@@ -1,0 +1,14 @@
+C:\Users\user\source\repos\undertsand loops\undertsand loops\bin\Debug\undertsand loops.exe.config
+C:\Users\user\source\repos\undertsand loops\undertsand loops\bin\Debug\undertsand loops.exe
+C:\Users\user\source\repos\undertsand loops\undertsand loops\bin\Debug\undertsand loops.pdb
+C:\Users\user\source\repos\undertsand loops\undertsand loops\obj\Debug\undertsand loops.csprojResolveAssemblyReference.cache
+C:\Users\user\source\repos\undertsand loops\undertsand loops\obj\Debug\undertsand loops.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\undertsand loops\undertsand loops\obj\Debug\undertsand loops.exe
+C:\Users\user\source\repos\undertsand loops\undertsand loops\obj\Debug\undertsand loops.pdb
+C:\Users\user\Desktop\undertsand loops\bin\Debug\undertsand loops.exe.config
+C:\Users\user\Desktop\undertsand loops\bin\Debug\undertsand loops.exe
+C:\Users\user\Desktop\undertsand loops\bin\Debug\undertsand loops.pdb
+C:\Users\user\Desktop\undertsand loops\obj\Debug\undertsand loops.csprojResolveAssemblyReference.cache
+C:\Users\user\Desktop\undertsand loops\obj\Debug\undertsand loops.csproj.CoreCompileInputs.cache
+C:\Users\user\Desktop\undertsand loops\obj\Debug\undertsand loops.exe
+C:\Users\user\Desktop\undertsand loops\obj\Debug\undertsand loops.pdb
